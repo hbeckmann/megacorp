@@ -1,0 +1,5 @@
+# This file should *not* be in your project repository
+# It should be used as a reference for you to see the output
+# of `git log --oneline --graph --all` after each step
+
+* 0d16f95 (HEAD -> main, origin/main, origin/HEAD) A: The Founding of MegaCorp and the End of Art
